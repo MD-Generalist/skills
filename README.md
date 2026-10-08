@@ -153,6 +153,7 @@ If `npx` is not available in your environment, install
   - [**GKE Workload Security**](./skills/cloud/gke-workload-security)
   - [**Google Cloud IAM Access Troubleshooter & Remediation Orchestrator**](./skills/cloud/iam-helper-for-troubleshooting)
   - [**Google Cloud Security Command Center Query Skill**](./skills/cloud/google-cloud-scc-query)
+  - [**Google Cloud Security Command Center Remediation**](./skills/cloud/google-cloud-scc-remediation)
   - [**Google SecOps Case Management Skill for AI Agents**](./skills/cloud/secops-cases)
   - [**Google SecOps Detection Engineering Skill**](./skills/cloud/secops-detection-engineering)
   - [**Google SecOps Incident & Entity Investigation Skill**](./skills/cloud/secops-investigate)
